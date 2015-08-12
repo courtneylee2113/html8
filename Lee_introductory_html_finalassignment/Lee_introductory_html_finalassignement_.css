@@ -1,0 +1,35 @@
+body{
+	background-image:url(China_great_wall1.jpg);
+	background-repeat:no-repeat;
+	background-color:#FFEBFD;
+	background-position:center top;
+	padding-left:1em;
+	color:#000;}
+h1{
+color:#303;
+font-family: "Arial Black", Gadget, sans-serif;
+font-size:40px;
+margin-bottom:5em;}
+p{
+font-family:"Arial Black", Helvetica, sans-serif;
+font-size:16px;
+color:#303}
+ul#nav li{ display:inline;}
+ul#nav li{
+color:#303;
+background-color:#98bf21;
+font-size:16px;
+font-family: "Arial Black", Gadget, sans-serif;
+display:inline;
+text-transform:uppercase;
+margin-top:50em;}
+ul#nav{
+margin-left:0em;}
+ul#nav li a:link{
+	padding:0.8em;
+	text-decoration:none;
+	color:#303;
+	font-weight:bold;}
+	ul#nav li a:hover, ul#nav li a:focus, ul#nav li a:active{
+		color:#CCF;}
+
